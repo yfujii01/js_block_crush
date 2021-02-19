@@ -2,7 +2,7 @@
 
 ## 動作ページ
 
-https://yfujii01.github.io/js_block_crush/index.html
+https://yfujii01.github.io/js_block_crush/
 
 ## 参考
 
